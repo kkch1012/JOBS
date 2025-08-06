@@ -1,0 +1,140 @@
+# 민감한 정보 제외
+*.ppk
+*.pem
+*.key
+id_rsa*
+jobs_openssh
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+env.example
+env.production.example
+
+# 데이터베이스 파일
+*.db
+*.sqlite
+*.sqlite3
+app.db
+pg_dump.sql
+
+# 로그 파일
+*.log
+logs/
+log/
+
+# 가상환경
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.temp
+.cache/
+
+# 커버리지 리포트
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Frontend build files
+frontend/build/
+frontend/.cache/
+frontend/node_modules/
+
+# 배포 관련 스크립트 (선택적)
+ec2-setup.sh
+docker-publish.sh
+AWS_EC2_DEPLOYMENT_GUIDE.md
+
+# MCP 관련 민감 정보
+EXTERNAL_MCP_README.md
+mcp_server.py
+scripts/test_external_mcp.py
+
+# 프롬프트 및 설정 파일들
+*.prompt
+*.template
+prompts/
+templates/
+config/
