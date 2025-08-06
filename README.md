@@ -3,8 +3,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-17-blue?style=for-the-badge&logo=react" alt="React 17">
   <img src="https://img.shields.io/badge/FastAPI-0.68+-green?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PostgreSQL-13+-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-4.4+-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-15+-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-7.0+-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-7+-red?style=for-the-badge&logo=redis" alt="Redis">
+  <img src="https://img.shields.io/badge/MCP-Protocol-orange?style=for-the-badge&logo=openai" alt="MCP">
   <img src="https://img.shields.io/badge/Docker-20.10+-blue?style=for-the-badge&logo=docker" alt="Docker">
 </div>
 
@@ -205,8 +207,9 @@ services:
 ### 데이터베이스 최적화
 - **PostgreSQL 15 + pgvector**: 벡터 유사도 검색으로 빠른 스킬 매칭
 - **MongoDB 7.0**: 유연한 문서 저장 및 스키마 변경 대응
-- **Redis 7**: 고성능 캐싱으로 API 응답 속도 향상
+- **Redis 7**: 고성능 캐싱으로 API 응답 속도 향상 및 세션 관리
 - **정규화/반정규화**: 쿼리 성능 최적화 및 데이터 일관성 보장
+- **하이브리드 아키텍처**: 관계형 + 문서형 + 캐시 레이어 통합
 
 ### AI 모델 성능
 - **실시간 추천**: < 500ms 응답 시간
@@ -257,7 +260,33 @@ docker-compose up -d
 
 ### 3. 데이터베이스 설계 최적화
 - **문제**: 복잡한 관계형 데이터와 벡터 검색의 통합
-- **해결**: PostgreSQL + pgvector + MongoDB 하이브리드 구조
+- **해결**: PostgreSQL + pgvector + MongoDB + Redis 하이브리드 구조
+
+## 📸 프로젝트 스크린샷
+
+### 메인 대시보드
+<img width="2750" height="1614" alt="메인 대시보드" src="https://github.com/user-attachments/assets/8399100a-0d89-423b-a203-838c15d2ee6c" />
+
+### AI 챗봇
+<img width="1820" height="1746" alt="AI 챗봇" src="https://github.com/user-attachments/assets/bfe27a5f-6c4b-4d69-a6ca-aeec9ccaab6e" />
+
+### 스킬 갭 분석
+<img width="1440" height="931" alt="스킬 갭 분석" src="https://github.com/user-attachments/assets/fd7b6479-d1cd-4666-b3fd-3a0e01712727" />
+
+### 커리어 로드맵 요약
+<img width="1692" height="948" alt="커리어 로드맵 요약" src="https://github.com/user-attachments/assets/e66cde0d-308a-4e5c-b5b7-2b11989baf60" />
+
+### 채용공고 추천
+<img width="1056" height="972" alt="채용공고 추천" src="https://github.com/user-attachments/assets/0d856a15-19a9-4d63-89ca-45398d7124be" />
+
+### 트렌드 분석
+<img width="1440" height="1179" alt="트렌드 분석" src="https://github.com/user-attachments/assets/8372cce7-cc32-48d6-835a-11735304e5bd" />
+
+### 스킬 갭 분석 상세
+<img width="1440" height="890" alt="스킬 갭 분석 상세" src="https://github.com/user-attachments/assets/0c5d7452-eb82-40d9-aa6b-18dd67c76447" />
+
+### 로드맵 추천
+<img width="1440" height="1133" alt="로드맵 추천" src="https://github.com/user-attachments/assets/5775d0b4-bf9c-41d5-a586-631d024e36ca" />
 
 ## 📊 프로젝트 통계
 
