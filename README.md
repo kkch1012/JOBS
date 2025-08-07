@@ -267,8 +267,13 @@ docker-compose up -d
 ### 메인 대시보드  
 <img width="2750" height="1614" alt="메인 대시보드" src="https://github.com/user-attachments/assets/8399100a-0d89-423b-a203-838c15d2ee6c" />
 
-### 채용공고 추천  
-<img width="534" height="483" alt="AI 추천 공고" src="https://github.com/user-attachments/assets/105f3f76-e437-4f40-ba2e-d67ac1cd0d73" />
+### AI 공고 추천  
+<img width="534" height="483" alt="AI 추천 공고 1" src="https://github.com/user-attachments/assets/105f3f76-e437-4f40-ba2e-d67ac1cd0d73" />  
+<img width="685" height="580" alt="AI 추천 공고 2" src="https://github.com/user-attachments/assets/34141ebd-dc74-4701-8131-a9e92f1d50cc" />
+
+### AI 직무 추천  
+<img width="876" height="487" alt="AI 직무 추천 1" src="https://github.com/user-attachments/assets/6a50eaee-cdde-4039-ae8f-2fef2ab5d5ac" />  
+<img width="587" height="721" alt="AI 직무 추천 2" src="https://github.com/user-attachments/assets/70b96a54-6101-44c0-9429-1ea24b67401b" />
 
 ### 커리어 로드맵 요약  
 <img width="1692" height="948" alt="커리어 로드맵 요약" src="https://github.com/user-attachments/assets/e66cde0d-308a-4e5c-b5b7-2b11989baf60" />
@@ -290,6 +295,7 @@ docker-compose up -d
 
 ### To-do list  
 <img width="869" height="663" alt="To-do list" src="https://github.com/user-attachments/assets/e66d4c89-19ea-4704-a990-35551ba2712a" />
+
 
 
 ## 📊 프로젝트 통계
