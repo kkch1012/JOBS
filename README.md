@@ -264,29 +264,33 @@ docker-compose up -d
 
 ## 📸 프로젝트 스크린샷
 
-### 메인 대시보드
+### 메인 대시보드  
 <img width="2750" height="1614" alt="메인 대시보드" src="https://github.com/user-attachments/assets/8399100a-0d89-423b-a203-838c15d2ee6c" />
 
-### AI 챗봇
-<img width="1820" height="1746" alt="AI 챗봇" src="https://github.com/user-attachments/assets/bfe27a5f-6c4b-4d69-a6ca-aeec9ccaab6e" />
+### 채용공고 추천  
+<img width="534" height="483" alt="AI 추천 공고" src="https://github.com/user-attachments/assets/105f3f76-e437-4f40-ba2e-d67ac1cd0d73" />
 
-### 스킬 갭 분석
-<img width="1440" height="931" alt="스킬 갭 분석" src="https://github.com/user-attachments/assets/fd7b6479-d1cd-4666-b3fd-3a0e01712727" />
-
-### 커리어 로드맵 요약
+### 커리어 로드맵 요약  
 <img width="1692" height="948" alt="커리어 로드맵 요약" src="https://github.com/user-attachments/assets/e66cde0d-308a-4e5c-b5b7-2b11989baf60" />
 
-### 채용공고 추천
-<img width="1056" height="972" alt="채용공고 추천" src="https://github.com/user-attachments/assets/0d856a15-19a9-4d63-89ca-45398d7124be" />
+### AI 챗봇  
+<img width="1820" height="1746" alt="AI 챗봇" src="https://github.com/user-attachments/assets/bfe27a5f-6c4b-4d69-a6ca-aeec9ccaab6e" />
 
-### 트렌드 분석
+### 트렌드 분석  
 <img width="1440" height="1179" alt="트렌드 분석" src="https://github.com/user-attachments/assets/8372cce7-cc32-48d6-835a-11735304e5bd" />
 
-### 스킬 갭 분석 상세
+### 스킬 갭 분석  
+<img width="1501" height="533" alt="스킬 갭 분석" src="https://github.com/user-attachments/assets/9e5fe8f5-c271-4e35-9c9d-1cd030f6d5d9" />
+
+### 스킬 갭 분석 상세  
 <img width="1440" height="890" alt="스킬 갭 분석 상세" src="https://github.com/user-attachments/assets/0c5d7452-eb82-40d9-aa6b-18dd67c76447" />
 
-### 로드맵 추천
+### 로드맵 추천  
 <img width="1440" height="1133" alt="로드맵 추천" src="https://github.com/user-attachments/assets/5775d0b4-bf9c-41d5-a586-631d024e36ca" />
+
+### To-do list  
+<img width="869" height="663" alt="To-do list" src="https://github.com/user-attachments/assets/e66d4c89-19ea-4704-a990-35551ba2712a" />
+
 
 ## 📊 프로젝트 통계
 
