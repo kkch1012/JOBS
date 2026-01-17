@@ -17,7 +17,7 @@ AI 기술을 활용한 개인화 채용 매칭 플랫폼입니다. 사용자의 
 ### 🎯 주요 성과
 - **LG U+ SW Camp 5기 최종 발표 1등** 🏆
 - **AI 기반 추천 시스템 구현**
-- **MCP(Model Context Protocol) 연동**
+- **MCP(Model Context Protocol)기반 Function Calling 연동**
 
 ## ✨ 핵심 기능
 
@@ -29,7 +29,7 @@ AI 기술을 활용한 개인화 채용 매칭 플랫폼입니다. 사용자의 
 
 ### 💬 AI 챗봇 상담
 - **LLM 기반 상담**: OpenRouter API 활용
-- **MCP 연동**: Model Context Protocol을 통한 확장 가능한 AI 기능
+- **MCP(Model Context Protocol)기반 Function Calling 연동**: MCP(Model Context Protocol)기반 Function Calling을 통한 확장 가능한 AI 기능
 - **개인화 학습 계획**: 사용자 맞춤형 학습 추천
 - **실시간 질의응답**: 커리어 관련 상담 서비스
 
@@ -215,7 +215,7 @@ services:
 - **실시간 추천**: < 500ms 응답 시간
 - **정확도**: 85% 이상의 매칭 정확도
 - **확장성**: 수천 명 동시 사용자 지원
-- **MCP 서버**: 별도 프로세스로 AI 기능 확장 가능
+- **MCP(Model Context Protocol)기반 Function Calling 서버**: 별도 프로세스로 AI 기능 확장 가능
 
 ### 클라우드 배포
 - **AWS EC2**: 안정적인 클라우드 인프라
